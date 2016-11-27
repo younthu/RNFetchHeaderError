@@ -1,0 +1,3 @@
+rootProject.name = 'GithubFetchErrorInReactNative'
+
+include ':app'
